@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://www.transdatos.com.ar/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/nosotros/quienes-somos</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/nosotros/historia</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/nosotros/rse</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/soluciones/empresas</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/soluciones/pymes</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/soluciones/telcos</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/servicios/redes</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/servicios/ingenieria</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/servicios/mantenimiento</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/servicios/construcciones</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/contact/questions</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.transdatos.com.ar/contact/work-with-us</loc>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>

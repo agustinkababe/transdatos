@@ -1,0 +1,32 @@
+## Options +FollowSymLinks
+## RewriteEngine On 
+
+
+## comentario real - Redirects de 404 manuales
+
+
+## comentario real - Resolve esto
+## Redirect 301 /			/home
+## Redirect 301 /nosotros		/nosotros/quienes-somos
+## Redirect 301 /about         /nosotros
+## Redirect 301 /solutions		/engineering
+## Redirect 301 /services		/networking
+## Redirect 301 /contact		/questions
+Redirect 301 /home		            /
+
+Redirect 301 /about/about-us        /nosotros/quienes-somos
+Redirect 301 /about/history         /nosotros/historia
+Redirect 301 /about/csr             /nosotros/rse
+
+Redirect 301 /solutions/engineering /soluciones/empresas
+Redirect 301 /solutions/pymes       /soluciones/pymes
+Redirect 301 /solutions/telcos      /soluciones/telcos
+
+Redirect 301 /services/networking   /servicios/redes
+Redirect 301 /services/engineering  /servicios/ingenieria
+Redirect 301 /services/maintenance  /servicios/mantenimiento
+Redirect 301 /services/buildings    /servicios/construcciones
+
+
+
+
